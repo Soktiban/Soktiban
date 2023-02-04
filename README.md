@@ -7,7 +7,7 @@ I am a Front End and Back End Web developer who is passionate about learning and
 Skills: HTML / CSS/JS/REACT/Python
 
 - 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning Java Script,Go,Pythone,Rubi 
+- 🌱 I’m currently learning Java Script,Go,Python,Rubi 
 - 👯 I’m looking to collaborate on github 
 - 💬 Ask me about Web Development 
 
