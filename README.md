@@ -8,6 +8,6 @@ Skills: NodeJS,Spring Boot,
 Find me on linkedin-https://www.linkedin.com/in/sheikh-soktiban-45b825282/
 
 - 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning javascript,c++,java.
+- 🌱 I’m currently learning system design,software architecture,devops
 - 👯 I’m looking to collaborate on github
 
