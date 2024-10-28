@@ -5,7 +5,7 @@ I am an engineering student who is passionate about learning and sharing knowled
 
 Find me on linkedin-https://www.linkedin.com/in/sheikh-soktiban-45b825282/
 
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning system design,software architecture,devops
+- 🔭 I’m currently working as an IT Executive at Shefra
+- 🌱 I’m currently learning software development,devops
 - 👯 I’m looking to collaborate on github
 
